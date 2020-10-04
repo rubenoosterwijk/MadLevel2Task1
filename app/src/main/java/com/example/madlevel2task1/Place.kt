@@ -73,7 +73,6 @@ data class Place(
             R.drawable.sydney_opera,
             R.drawable.hawaii,
             R.drawable.alaska_denali
-
         )
     }
 }
